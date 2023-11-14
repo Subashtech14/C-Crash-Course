@@ -8,7 +8,7 @@ int main(){
     auto var3 {14.0f};
     auto var4 {15.0l};
     auto var5 {'e'};
-    
+
     //int modifier suffixes
     auto var6 { 123u}; // unsigned
     auto var7 { 123ul}; //unsigned long
