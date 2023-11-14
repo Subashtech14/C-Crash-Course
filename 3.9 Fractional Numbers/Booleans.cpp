@@ -33,7 +33,7 @@ int main()
     std::cout << std::endl;
     std::cout << "red_light : " << red_light << std::endl;
     std::cout << "green_light : " << green_light << std::endl;
-
+    // To Print it as a true or false we have to use boolalpha
     std::cout << std::boolalpha;
     std::cout << "red_light : " << red_light << std::endl;
     std::cout << "green_light : " << green_light << std::endl;
